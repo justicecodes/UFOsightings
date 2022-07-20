@@ -11,3 +11,8 @@ body {
     font-family:fantasy;
   }
   .date{color:indigo}
+
+  th, .list-group-item, .title{color:#f3fbb6; 
+font-weight:bolder;
+font-family:fantasy;
+}
